@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-01-03
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Admitted to [W.V.T. Rusch Undergraduate Engineering Honors Program](https://viterbiundergrad.usc.edu/ehp/) under the Research track.

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-08-25
 inline: true
 ---
 
-A simple inline announcement.
+Joined [Safe and Intelligent Autonomy Lab](https://smlbansal.github.io/sia-lab/index.html) through [CURVE fellowship](https://viterbiundergrad.usc.edu/research/curve/), supervised by Professor [Somil Bansal](https://smlbansal.github.io/).
