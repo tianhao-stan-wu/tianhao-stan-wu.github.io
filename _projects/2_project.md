@@ -6,7 +6,15 @@ img: assets/img/project2/autodrone.jpg
 importance: 2
 ---
 
-Project Overview:
+Faculty: Professor [Marco Levorato](https://www.ics.uci.edu/~mlevorat/)
+
+Project Director : Ian A. Harshbarger
+
+Team: Yushi Lin, Jiajun Li, Purav Patel, Eric Qiu, Tianhao Wu
+
+[Project Github](https://github.com/Brooklyn-0/Autonomous_Drone_Project)
+
+Overview:
 
 <br>
 <div class="row">
