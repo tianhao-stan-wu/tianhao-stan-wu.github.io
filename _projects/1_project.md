@@ -6,3 +6,4 @@ img: assets/img/12.jpg
 importance: 1
 ---
 
+Some test message.
