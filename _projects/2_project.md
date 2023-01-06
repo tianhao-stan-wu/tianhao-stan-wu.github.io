@@ -1,0 +1,75 @@
+---
+layout: page
+title: autonomous drone
+description: UCI summer research
+img: assets/img/project2/autodrone.jpg
+importance: 2
+---
+
+Project Overview:
+
+<br>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project2/overview.jpg" title="overview" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
+
+Details:
+
+First, we familiarized ourselves with the working environment, including but not limited to Github repositories for UAVs, [dronekit documentation](https://dronekit-python.readthedocs.io/en/latest/), and jetson nano.
+
+<br>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project2/digitIO.jpg" title="digital IO" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
+
+Then, configured VL53L0X time of flight sensor, connected it with jetson nano, and adapted Python scripts to print distance data.
+
+<br>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project2/tfsensor.jpg" title="time of flight sensor" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project2/board.jpg" title="breadboard" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
+
+Next, we built a target using cardboards and PVC pipes; collected, cleaned, and labeled a dataset of the target on Roboflow for training a YOLOv5 model.
+
+<br>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project2/target.jpg" title="target" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project2/dataset.jpg" title="dataset" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
+
+Validated the YOLOv5 model, successfully detected the target and the stop sign with high accuracy (over 90%). We further exploited this high accuracy by dynamically calculating the percentage of the target in images captured by the onboard webcam as a safety guarantee. 
+
+<br>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project2/test.png" title="validation" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
+
+Then, scripted a simulation using dronekit-silt, fixed bugs in our code, and optimized the algorithm. After trials and errors, we ran the simulation with Mission Planner and passed the test. Finally, we tested our drone in an open field.
+
+<br>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project2/simulation.jpg" title="simulation" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
