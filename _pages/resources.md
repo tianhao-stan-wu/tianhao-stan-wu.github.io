@@ -28,3 +28,25 @@ Videos:
 
 2. [Understanding Machine Learning - Shai Ben-David](https://www.youtube.com/@understandingmachinelearni6331)
 
+
+Beautiful Quotes: (unknown or falsely attributed authors are not included)
+
+1. ‘Education Is Not the Learning of Facts, But the Training of the Mind To Think.’ ---  Einstein
+
+2. ‘Mathematics is the queen of the sciences and number-theory the queen of mathematics.’ --- Gauss
+
+3. ‘In mathematics you don't understand things. You just get used to them.’ --- Neumann
+
+4. ‘Ask the right question is more significant than blindly try to solve a question.’ --- Musk
+
+5. ‘If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present.’
+
+6. ‘Two things could be equivalent, however they look very differently. Two things could be different, however they look very similar.’ --- from propositional logic
+
+
+
+
+
+
+
+
