@@ -37,11 +37,13 @@ Beautiful Quotes: (unknown or falsely attributed authors are not included)
 
 3. ‘In mathematics you don't understand things. You just get used to them.’ --- Neumann
 
-4. ‘Ask the right question is more significant than blindly try to solve a question.’ --- Musk
+4. ‘Nothing in all the world is more dangerous than sincere ignorance and conscientious stupidity.’ --- King 
 
-5. ‘If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present.’
+5. ‘Ask the right question is more significant than blindly try to solve a question.’ --- Musk
 
-6. ‘Two things could be equivalent, however they look very differently. Two things could be different, however they look very similar.’ --- from propositional logic
+6. ‘If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present.’
+
+7. ‘Two things could be equivalent, however they look very differently. Two things could be different, however they look very similar.’ --- from propositional logic
 
 
 
