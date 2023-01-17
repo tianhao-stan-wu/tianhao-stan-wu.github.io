@@ -21,12 +21,16 @@ Books:
 
 5. Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz and Shai Ben-David 
 
+6. An Introduction to Statistical Learning with Applications in R [2nd ed.] Springer
+
 
 Videos:
 
 1. [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
 
 2. [Understanding Machine Learning - Shai Ben-David](https://www.youtube.com/@understandingmachinelearni6331)
+
+3. [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
 
 
 Beautiful Quotes: (unknown or falsely attributed authors are not included)
