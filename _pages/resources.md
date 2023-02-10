@@ -33,6 +33,11 @@ Videos:
 3. [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
 
 
+Interesting Concepts:
+
+1. [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
+
+
 Beautiful Quotes: (unknown or falsely attributed authors are not included)
 
 1. ‘Education Is Not the Learning of Facts, But the Training of the Mind To Think.’ ---  Einstein

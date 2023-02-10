@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-A junior at [University of Southern California](https://www.usc.edu/). Double major in Applied and Computational Mathematics (AMCM) and Computer Engineering and Computer Science (CECS). Plan to pursue a Ph.D. after graduation, then become a professor because I enjoy doing research and teaching. Broadly interested in robotics and artifical intelligence, with special interests in UAV control, safety analysis of robotic systems, and machine learning.
+A junior at [University of Southern California](https://www.usc.edu/). Double major in Applied and Computational Mathematics (AMCM) and Computer Engineering and Computer Science (CECS). Plan to pursue a Ph.D. after graduation, then become a professor because I enjoy doing research and teaching. Broadly interested in robotics and artifical intelligence, with special interests in control, safety analysis, and machine learning.
 
 Hobbies: watch NBA, play basketball, fly FPV drones (unfortunately, a terrible pilot and once crashed my drone into a tree), learn different languages, philosophy
 
