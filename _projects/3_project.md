@@ -12,7 +12,7 @@ PhD mentor : [Hao Wang](https://scholar.google.com/citations?user=W5WYNgkAAAAJ&h
 
 Collaborator: [Peter Wang](https://pwang649.github.io/)
 
-[Project Github](https://github.com/tianhao-stan-wu/deepreach)
+[[Project Github]](https://github.com/tianhao-stan-wu/deepreach)  &nbsp;&nbsp;&nbsp;&nbsp; [[paper]](/assets/pdf/project3/paper.pdf)
 
 <br>
 This project focuses on Hamilton-Jacobi Reachability analysis. If you are unfamiliar with the topic, below are some good resources to get started.

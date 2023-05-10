@@ -12,7 +12,7 @@ Project Director : Ian A. Harshbarger
 
 Team: Yushi Lin, Jiajun Li, Purav Patel, Eric Qiu, Tianhao Wu
 
-[Project Github](https://github.com/tianhao-stan-wu/UCI_Autonomous_Drone_Project)
+[[Project Github]](https://github.com/tianhao-stan-wu/UCI_Autonomous_Drone_Project)
 
 <br>
 <div class="row">

@@ -8,7 +8,7 @@ importance: 6
 
 Collaborator: &nbsp;[Lorena Yan](https://tianyi-lorena-yan-me.web.app/) &nbsp;&nbsp;&nbsp;[Ryan Wang](https://www.linkedin.com/in/ryanyxw/)
 
-[Project Github](https://github.com/Lorenayannnnn/csci467_music_genre_classification)
+[[Project Github]](https://github.com/Lorenayannnnn/csci467_music_genre_classification)
 
 <br>
 Abstract:
