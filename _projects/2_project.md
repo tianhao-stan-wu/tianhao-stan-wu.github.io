@@ -3,7 +3,7 @@ layout: page
 title: autonomous drone
 description: UCI summer research
 img: assets/img/project2/autodrone.jpg
-importance: 2
+importance: 8
 ---
 
 Faculty: Professor [Marco Levorato](https://www.ics.uci.edu/~mlevorat/)
@@ -12,7 +12,7 @@ Project Director : Ian A. Harshbarger
 
 Team: Yushi Lin, Jiajun Li, Purav Patel, Eric Qiu, Tianhao Wu
 
-[Project Github](https://github.com/Brooklyn-0/Autonomous_Drone_Project)
+[Project Github](https://github.com/tianhao-stan-wu/UCI_Autonomous_Drone_Project)
 
 <br>
 <div class="row">

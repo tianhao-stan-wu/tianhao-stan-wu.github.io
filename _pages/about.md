@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 A junior at [University of Southern California](https://www.usc.edu/). Double major in Applied and Computational Mathematics (AMCM) and Computer Engineering and Computer Science (CECS). Plan to pursue a Ph.D. after graduation, then become a professor because I enjoy doing research and teaching. Broadly interested in robotics and artifical intelligence, with special interests in control, safety analysis, and machine learning.
 
-Hobbies: watch NBA, play basketball, fly FPV drones (unfortunately, a terrible pilot and once crashed my drone into a tree), learn different languages, philosophy
+Hobbies: watch NBA, play basketball, build robots, fly FPV drones (unfortunately, a terrible pilot and once crashed my drone into a tree), learn different languages, philosophy
 
 Fun fact: besides my favourite quote by [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) above, I also love the following claim by the great mathematician [Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) that, ‘Mathematics is the queen of the sciences and number-theory the queen of mathematics.’ I first read it in my number theory textbook. I wasn't able to taste the beauty of this sentence until I came across this wonderful [video](https://www.youtube.com/watch?v=EK32jo7i5LQ&t=198s) by 3 Blue 1 Brown (jump to 2:20 to save some time). I just couldn't described how fascinating it is to simply see that "it all just happened", beyond imagination.
 

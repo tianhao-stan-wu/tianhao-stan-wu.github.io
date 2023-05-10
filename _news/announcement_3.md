@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-01-03
+date: 2023-04-03
 inline: true
 ---
 
-Admitted to [W.V.T. Rusch Undergraduate Engineering Honors Program](https://viterbiundergrad.usc.edu/ehp/) under the Research track.
+Selected as one of the five students from the ECE department as [MHI undergrad scholars](https://minghsiehece.usc.edu/mhi-home/mhi-mhi-scholars/) to run the undergrad research hub for 2023-2024.

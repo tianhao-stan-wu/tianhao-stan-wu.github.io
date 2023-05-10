@@ -11,15 +11,15 @@ People need to read different books based on their specific needs. Therefore, th
 
 Books:
 
-1. Reinforcement Learning and Optimal Control by D. P. Bertsekas, Athena Scientific, 2019. [Bertsekas19] 
+1. Reinforcement Learning and Optimal Control  &nbsp;&nbsp;&nbsp;&nbsp; by D. P. Bertsekas, Athena Scientific, 2019. [Bertsekas19] 
 
-2. Dynamic Non-cooperative Game Theory by T. Başar and G. J. Olsder 
+2. Dynamic Non-cooperative Game Theory &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by T. Başar and G. J. Olsder 
 
-3. Control System Design: An Introduction to State-Space Methods by B. Friedland 
+3. Control System Design: An Introduction to State-Space Methods &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by B. Friedland 
 
-4. Artificial Intelligence: A Modern Approach [4th ed.] by Stuart Russell 
+4. Artificial Intelligence: A Modern Approach [4th ed.] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by Stuart Russell 
 
-5. Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz and Shai Ben-David 
+5. Understanding Machine Learning: From Theory to Algorithms &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by Shai Shwartz and Shai David 
 
 6. An Introduction to Statistical Learning with Applications in R [2nd ed.] Springer
 
