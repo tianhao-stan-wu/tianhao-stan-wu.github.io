@@ -23,6 +23,9 @@ Books:
 
 6. An Introduction to Statistical Learning with Applications in R [2nd ed.] Springer
 
+7. Robot Modeling and Control  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by M. Spong, S. Hutchinson, M. Vidyasagar
+
+<br>
 
 Videos:
 
@@ -32,11 +35,15 @@ Videos:
 
 3. [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
 
+4. [Princeton Intro to Robotics](https://irom-lab.princeton.edu/intro-to-robotics/)
+
+<br>
 
 Interesting Concepts:
 
 1. [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 
+<br>
 
 Beautiful Quotes: (unknown or falsely attributed authors are not included)
 
