@@ -61,8 +61,7 @@ Beautiful Quotes: (unknown or falsely attributed authors are not included)
 
 7. ‘Two things could be equivalent, however they look very differently. Two things could be different, however they look very similar.’ --- from propositional logic
 
-
-
+8. ‘Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind.’ --- Russell
 
 
 

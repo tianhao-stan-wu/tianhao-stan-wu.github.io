@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-08-25
+date: 2023-07-20
 inline: true
 ---
 
-Joined [Safe and Intelligent Autonomy Lab](https://smlbansal.github.io/sia-lab/index.html) through [CURVE fellowship](https://viterbiundergrad.usc.edu/research/curve/), supervised by Professor [Somil Bansal](https://smlbansal.github.io/).
+Research assistant for a computer vision research project on semantic segmentation.

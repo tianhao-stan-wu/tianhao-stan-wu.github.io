@@ -4,6 +4,10 @@ title: past news
 permalink: /past_news/
 ---
 
+2023-07-20
+
+Research assistant for a computer vision research project on semantic segmentation.
+
 2023-04-03
 
 Selected as one of the five students from the ECE department as [MHI undergrad scholars](https://minghsiehece.usc.edu/mhi-home/mhi-mhi-scholars/) to run the undergrad research hub for 2023-2024.
