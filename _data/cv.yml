@@ -15,6 +15,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Assistant - semantic segmentation and interpretation of object behaviors
+      year: 2023 - 2024
+
+    - title: Course Producer for EE109 - Introduction to Embedded Systems
+      institution: University of Southern California
+      year: Fall 2023
+
     - title: MHI Undergrad Scholars
       institution: University of Southern California
       year: 2023 - 2024
@@ -58,6 +65,7 @@
         - 408 - Mathematical Statistics
         - 430 - Theory of Numbers
         - 447 - Mathematics of Machine Learning
+        - 458 - Numerical Methods
     - title: CSCI
       items: 
         - 102L - Fundamentals of Computation (C++)
@@ -66,10 +74,13 @@
         - 170 - Discrete Methods in Computer Science
         - 270 - Introduction to Algorithms and Theory of Computing
         - 360 - Introduction to Artificial Intelligence
+        - 430 - Introduction to Computer and Network Security
         - 467 - Introduction to Machine Learning
     - title: EE
       items:
         - 109L - Introduction to Embedded Systems
+        - 202 - Linear Circuits
+        - 354 - Introduction to Digital Circuits
         - 599 - Learning and Control for Safety-Critical Robotic Systems
     - title: GE
       items:
@@ -79,11 +90,12 @@
         - EASC 150 - East Asian Societies
         - EASC 160 - China and the World
         - EALC 125 - Asian Cinema and Culture
+        - PSYC 100 - Introduction to Psychology
     - title: Other
       items:
         - ITP 116 - Accelerated Programming in Python
         - ITP 125L - Introduction to Information Security
-        - ENGR 100A - Engineering Honors Colloquium
+        - ENGR 100A/B - Engineering Honors Colloquium
 
 
 
