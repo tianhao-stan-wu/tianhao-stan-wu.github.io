@@ -15,7 +15,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant - semantic segmentation and interpretation of object behaviors
+    - title: Research Assistant in Computer Vision
       year: 2023 - 2024
 
     - title: Course Producer for EE109 - Introduction to Embedded Systems
@@ -40,7 +40,7 @@
 
     - title: Course Producer for CSCI102 - Fundamentals of Computation 
       institution: University of Southern California
-      year: 2022 - 2023
+      year: 2022 - 2024
 
     - title: UCInspire Program - Intelligent and Autonomous Systems Lab
       institution: University of California - Irvine
@@ -63,9 +63,11 @@
         - 229 - Calculus III for Engineers and Scientists
         - 407 - Probability Theory
         - 408 - Mathematical Statistics
+        - 425a - Fundamental Concepts of Analysis
         - 430 - Theory of Numbers
         - 447 - Mathematics of Machine Learning
         - 458 - Numerical Methods
+        - 467 - Theory and Computational Methods for Optimization
     - title: CSCI
       items: 
         - 102L - Fundamentals of Computation (C++)
@@ -81,6 +83,8 @@
         - 109L - Introduction to Embedded Systems
         - 202 - Linear Circuits
         - 354 - Introduction to Digital Circuits
+        - 457 - Computer Systems Organization
+        - 459 - Embedded Systems Design Laboratory
         - 599 - Learning and Control for Safety-Critical Robotic Systems
     - title: GE
       items:

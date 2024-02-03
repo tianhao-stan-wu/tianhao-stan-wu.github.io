@@ -6,7 +6,7 @@ permalink: /past_news/
 
 2023-07-20
 
-Research assistant for a computer vision research project on semantic segmentation.
+Research assistant in computer vision.
 
 2023-04-03
 
