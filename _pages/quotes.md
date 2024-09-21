@@ -1,7 +1,7 @@
 ---
 layout: page
-title: resources
-permalink: /resources/
+title: quotes
+permalink: /quotes/
 ---
 
 <!-- Note: 
@@ -37,13 +37,12 @@ Videos:
 
 4. [Princeton Intro to Robotics](https://irom-lab.princeton.edu/intro-to-robotics/)
 
-<br>
+<br> -->
 
 Interesting Concepts:
 
 1. [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 
-<br> -->
 
 Beautiful Quotes: (unknown or falsely attributed authors are not included)
 

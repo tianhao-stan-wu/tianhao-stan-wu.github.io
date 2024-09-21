@@ -1,65 +1,59 @@
-- title: Click the purple icon on top right for CV
+# - title: Click the purple icon on top right for CV
 
-- title: Basic Information
-  type: map
+- title: Basics
+  type: list
   contents:
-    - name: Full Name
-      value: Tianhao Wu
-    - name: Education
-      value: University of Southern California
-    - name: Majors (1)
-      value: B.S. Applied and Computational Mathematics
-    - name: Majors (2)
-      value: B.S. Computer Engineering and Computer Science
-    - name: Languages
-      value: English (proficient), Mandarin (native), Spanish (elementary)
-    
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Intern at Deep Vision Lab
-      institution: Chinese University of Hong Kong
-      year: summer 2024
+    - <b>Full Name:</b> Tianhao Wu
+    - <b>Education:</b> University of Southern California
+    - <b>Majors:</b> B.S. Computer Engineering and Computer Science ; B.S. Applied Mathematics
+    - <b>Languages:</b> English (bilingual proficiency), Mandarin Chinese (native), Spanish (elementary)
 
-    - title: Research Assistant in Computer Vision
-      institution: University of Southern California
-      year: 2023 - 2024
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Research Intern at Deep Vision Lab
+#       institution: Chinese University of Hong Kong
+#       year: summer 2024
 
-    - title: Course Producer for EE109 - Introduction to Embedded Systems
-      institution: University of Southern California
-      year: Fall 2023
+#     - title: Research Assistant in Computer Vision
+#       institution: University of Southern California
+#       year: 2023 - 2024
 
-    - title: MHI Undergrad Scholars
-      institution: University of Southern California
-      year: 2023 - 2024
+#     - title: Course Producer for EE109 - Introduction to Embedded Systems
+#       institution: University of Southern California
+#       year: Fall 2023
 
-    - title: W.V.T. Rusch Undergraduate Engineering Honors Program
-      institution: University of Southern California
-      year: 2023 - 2024
+#     - title: MHI Undergrad Scholars
+#       institution: University of Southern California
+#       year: 2023 - 2024
 
-    - title: Course Producer for CSCI360 - Introduction to Artificial Intelligence 
-      institution: University of Southern California
-      year: Spring 2023
+#     - title: W.V.T. Rusch Undergraduate Engineering Honors Program
+#       institution: University of Southern California
+#       year: 2023 - 2024
 
-    - title: CURVE Fellowship - Safe and Intelligent Autonomy Lab
-      institution: University of Southern California
-      year: 2022 - 2023
+#     - title: Course Producer for CSCI360 - Introduction to Artificial Intelligence 
+#       institution: University of Southern California
+#       year: Spring 2023
 
-    - title: Course Producer for CSCI102 - Fundamentals of Computation 
-      institution: University of Southern California
-      year: 2022 - 2024
+#     - title: CURVE Fellowship - Safe and Intelligent Autonomy Lab
+#       institution: University of Southern California
+#       year: 2022 - 2023
 
-    - title: UCInspire Program - Intelligent and Autonomous Systems Lab
-      institution: University of California - Irvine
-      year: summer 2022
+#     - title: Course Producer for CSCI102 - Fundamentals of Computation 
+#       institution: University of Southern California
+#       year: 2022 - 2024
 
-    - title: Teaching Assistant for CS@SC Summer Camp
-      institution: University of Southern California
-      year: summer 2022 
+#     - title: UCInspire Program - Intelligent and Autonomous Systems Lab
+#       institution: University of California - Irvine
+#       year: summer 2022
 
-    - title: Volunteer Math Tutor 
-      institution: Mastery Hour
-      year: Spring 2022 
+#     - title: Teaching Assistant for CS@SC Summer Camp
+#       institution: University of Southern California
+#       year: summer 2022 
+
+#     - title: Volunteer Math Tutor 
+#       institution: Mastery Hour
+#       year: Spring 2022 
 
 - title: Coursework 
   type: nested_list

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-07-20
+date: 2024-09-19
 inline: true
 ---
 
-Research assistant in computer vision, supervised by [Prof. Guangwei Zhang](https://scholar.google.com/citations?user=NXDtgwkAAAAJ&hl=en).
+Visiting student in CMU [Safe AI Lab](https://safeai-lab.github.io/#slide1), supervised by PhD candidate [Yaru Niu](https://yaruniu.com/) and [Prof. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html).

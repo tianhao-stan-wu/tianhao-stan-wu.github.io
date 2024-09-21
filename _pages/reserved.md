@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🎂🎂🎂 Happy Birthday 🎉🎉🎉  
-permalink: /our_secret_place_for_%f0%9f%92%95Jenny%f0%9f%92%95/
+permalink: /%f0%9f%92%95rendezvous%f0%9f%92%95/
 ---
 
 邱天宝贝💘💘💘
