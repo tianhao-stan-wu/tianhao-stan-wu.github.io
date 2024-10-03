@@ -23,7 +23,7 @@ I'm a senior undergraduate student from the [University of Southern California](
 <!-- <span style="color:red"> I'm actively looking for research internships and opportunities.</span> -->
 
 
-I'm broadly interested in **control theory, formal methods, and machine learning** with applications in robotics and autonomous sytems, especially in topics such as:
+I'm broadly interested in **control theory, formal methods, and machine learning** with applications in robotics and autonomous systems, especially in topics such as:
 
 (1) safe learning
 
