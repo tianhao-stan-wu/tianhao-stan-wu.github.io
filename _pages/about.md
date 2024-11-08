@@ -17,8 +17,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <br/>
-I'm a senior undergraduate student from the [University of Southern California](https://www.usc.edu/) graduating in Dec 2024. I'm double majoring in Applied and Computational Mathematics (AMCM) and Computer Engineering and Computer Science (CECS). 
-<span style="color:red">I'm going for a PhD after graduation. </span>
+I'm a senior undergraduate student at the [University of Southern California](https://www.usc.edu/), graduating in Dec 2024. I'm double majoring in Applied and Computational Mathematics (AMCM) and Computer Engineering and Computer Science (CECS). 
+<span style="color:red">I'm going for a PhD or research master after graduation. </span>
 
 <!-- <span style="color:red"> I'm actively looking for research internships and opportunities.</span> -->
 
@@ -33,7 +33,7 @@ I'm broadly interested in **control theory, formal methods, and machine learning
 
 <br/>
 
-Hobby: Rubik's Cube blindfolded (3x3x3)
+Hobbies: Rubik's Cube blindfolded (3x3x3); Basketball; Any imaginative, creative, or philosophical conversation
 
 Fun fact: besides my favourite quote by [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) above, I also love the following claim by the great mathematician [Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) that, ‘Mathematics is the queen of the sciences and number-theory the queen of mathematics.’ I first read it in my number theory textbook. I wasn't able to taste the beauty of this sentence until I watched this wonderful [video](https://www.youtube.com/watch?v=EK32jo7i5LQ&t=198s) by 3 Blue 1 Brown (jump to 2:20 to save some time). I just couldn't described how fascinating it is to simply see that "it all just happened", beyond imagination.
 <br/>
