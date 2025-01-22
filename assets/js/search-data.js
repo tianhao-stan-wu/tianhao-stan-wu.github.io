@@ -431,16 +431,19 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+    },{id: "news-all-past-news",
+          title: 'all past news',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_4/";
+            },},{id: "news-honored-as-2023-34-mhi-undergraduate-scholars",
+          title: 'Honored as 2023-34 MHI Undergraduate Scholars.',
+          description: "",
+          section: "News",},{id: "news-research-intern-in-deep-vision-lab-at-cuhk",
+          title: 'Research intern in Deep Vision Lab at CUHK.',
+          description: "",
+          section: "News",},{id: "news-visiting-student-in-driverless-intelligent-vehicle-lab-at-cmu",
+          title: 'Visiting student in Driverless Intelligent Vehicle Lab at CMU.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
