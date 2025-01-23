@@ -1,97 +1,59 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Basics
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <b>Full Name:</b> Tianhao Wu
+    - <b>Education:</b> University of Southern California
+    - <b>Majors:</b> B.S. Computer Engineering and Computer Science ; B.S. Applied Mathematics
+    - <b>Languages:</b> English (bilingual), Mandarin Chinese (native), Spanish (elementary)
+
+- title: Undergraduate Coursework 
+  type: nested_list
+  contents:
+    - title: MATH
+      items:
+        - 225 - Linear Algebra and Linear Differential Equations
+        - 229 - Calculus III for Engineers and Scientists
+        - 407 - Probability Theory
+        - 408 - Mathematical Statistics
+        - 425a - Fundamental Concepts of Analysis
+        - 430 - Theory of Numbers
+        - 447 - Mathematics of Machine Learning
+        - 458 - Numerical Methods
+        - 467 - Theory and Computational Methods for Optimization
+    - title: CSCI
+      items: 
+        - 102L - Fundamentals of Computation (C++)
+        - 103L - Introduction to Programming (C++)
+        - 104L - Data Structures and Object Oriented Design (C++)
+        - 170 - Discrete Methods in Computer Science
+        - 270 - Introduction to Algorithms and Theory of Computing
+        - 360 - Introduction to Artificial Intelligence
+        - 430 - Introduction to Computer and Network Security
+        - 467 - Introduction to Machine Learning
+    - title: EE
+      items:
+        - 109L - Introduction to Embedded Systems
+        - 202 - Linear Circuits
+        - 250 - Distributed Systems for the Internet of Things
+        - 301 - Linear Systems
+        - 354 - Introduction to Digital Circuits
+        - 451 - Parallel and Distributed Computation
+        - 457 - Computer Systems Organization
+        - 459 - Embedded Systems Design Laboratory
+        - 599 - Learning and Control for Safety-Critical Robotic Systems
+    - title: GE
+      items:
+        - WRIT 150 - Issues in Law and Social Justice
+        - WRIT 340 - Advanced Writing
+        - GESM 120 - Japanese Fiction and Film
+        - MUSC 102 - World Music
+        - EASC 150 - East Asian Societies
+        - EASC 160 - China and the World
+        - EALC 125 - Asian Cinema and Culture
+        - PSYC 100 - Introduction to Psychology
+    - title: Other
+      items:
+        - ITP 116 - Accelerated Programming in Python
+        - ITP 125L - Introduction to Information Security
+        - ENGR 100A/B - Engineering Honors Colloquium
