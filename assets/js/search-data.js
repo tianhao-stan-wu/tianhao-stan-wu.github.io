@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of cool projects.",
+          description: "A growing collection of selected projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -410,34 +410,34 @@ ninja.data = [{
           section: "News",},{id: "news-visiting-student-in-driverless-intelligent-vehicle-lab-at-cmu",
           title: 'Visiting student in Driverless Intelligent Vehicle Lab at CMU.',
           description: "",
-          section: "News",},{id: "projects-reachability-analysis",
-          title: 'reachability analysis',
-          description: "USC CURVE fellowship",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-autonomous-drone",
-          title: 'autonomous drone',
-          description: "UCI summer research",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-fpv-drone",
+          section: "News",},{id: "projects-fpv-drone",
           title: 'FPV Drone',
           description: "let&#39;s fly in the sky and make those dreams come true",
           section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-autonomous-drone",
+          title: 'Autonomous Drone',
+          description: "UCI summer research",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-reachability-analysis",
+          title: 'Reachability Analysis',
+          description: "USC CURVE fellowship",
+          section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-hexapod-robot",
-          title: 'hexapod robot',
-          description: "RPI controlled, equipped with camera",
+            },},{id: "projects-music-genre-classification",
+          title: 'Music Genre Classification',
+          description: "ML class project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-ultrasonic-ranger-fall-detector",
+          title: 'Ultrasonic Ranger/Fall Detector',
+          description: "Embedded system class project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-hexapod-robot",
+          title: 'Hexapod Robot',
+          description: "RPI controlled, equipped with camera",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{
