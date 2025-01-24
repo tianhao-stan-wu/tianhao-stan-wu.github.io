@@ -1,6 +1,6 @@
 ---
 layout: page
-title: autonomous drone
+title: Autonomous Drone
 description: UCI summer research
 img: assets/img/project2/autodrone.jpg
 importance: 2
