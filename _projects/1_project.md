@@ -2,7 +2,7 @@
 layout: page
 title: reachability analysis
 description: USC CURVE fellowship
-img: assets/img/project3/hjreach.png
+img: assets/img/project1/hjreach.png
 importance: 1
 category: research
 ---
@@ -28,12 +28,12 @@ Because this project is quite theoretical, it took me (as a sophomore) almost a 
 
 
 To fully comprehend DeepReach, I first implemented a simple 2D system. This
-[pdf](/assets/pdf/project3/2D_system.pdf) includes the problem description and the analytical solution of hamiltonian. Below are results obtained from DeepReach.
+[pdf](/assets/pdf/project1/2D_system.pdf) includes the problem description and the analytical solution of hamiltonian. Below are results obtained from DeepReach.
 
 <br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project3/2D_value_function_goal.png" title="value function goal" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project1/2D_value_function_goal.png" title="value function goal" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,7 +42,7 @@ To fully comprehend DeepReach, I first implemented a simple 2D system. This
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project3/2D_value_function_unsafe.png" title="value function unsafe" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project1/2D_value_function_unsafe.png" title="value function unsafe" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -76,7 +76,7 @@ problem.
 The whole project is too much for this webpage. For more details, please check out the following:
 
 1. [paper](https://arxiv.org/pdf/2312.17583v1) (most comprehensive)
-2. [slides](/assets/pdf/project3/slides.pdf)
+2. [slides](/assets/pdf/project1/slides.pdf)
 <br>
 
 Here again, I want to express my deep appreciation for Professor Bansal and PhD candidate Hao Wang for their support throughout this research project. Without them, this piece of work would be impossible. Also, thanks everyone in the [SIA lab](https://smlbansal.github.io/sia-lab/people.html) for helping and supporting each other, making this research experience so wonderful!
@@ -84,7 +84,7 @@ Here again, I want to express my deep appreciation for Professor Bansal and PhD 
 <br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project3/lab_photo.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project1/lab_photo.jpg" title="photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
