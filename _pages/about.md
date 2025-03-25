@@ -18,9 +18,9 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <br/>
-I graduated from University of Southern California in Applied Mathematics and Computer Science/Engineering. 
+I graduated from the University of Southern California in Applied Mathematics and Computer Science/Engineering. 
 
-I'm interested in **control theory, formal methods, and machine learning** for robotics, especially in safe control and autonomous driving.
+My research interests include **control theory, formal methods, and machine learning** to develop safe and intelligent robotic and autonomous systems. I am especially interested in safe control and multi-agent systems, with applications in autonomous driving and drones.
 
 <br/>
 
