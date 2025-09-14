@@ -5,8 +5,8 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: quote
-    permalink: /quote/
+  - title: misc
+    permalink: /miscellaneous/
   - title: divider
   - title: resource
     permalink: /resource/
