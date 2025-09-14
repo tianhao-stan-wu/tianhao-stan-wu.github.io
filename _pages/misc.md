@@ -1,7 +1,7 @@
 ---
 layout: page
-title: quote
-permalink: /quote/
+title: misc
+permalink: /miscellaneous/
 ---
 
 Interesting Concepts:
@@ -27,7 +27,8 @@ Beautiful Quotes: (unknown or falsely attributed authors are not included)
 
 8. ‘Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind.’ --- Russell
 
+Random thoughts:
 
-
+1. For a perfectly rational mathematician or computer scientist that graspes the essense of algorithm/optimization, why would that person not always follow the optimal strategy when solving tasks in real life? The first major assumption is that for a single objective optimization problem, we suppose the objective is THE goal. While in reality, this objective needs to be justified most of the time, and the justification of the goal is not easier than solving the problem itself. If we resort to multi-objective optimization, things get more interesting and complex. However, we are probably wasting our time and missing some other beautiful parts of our lives.
 
 
