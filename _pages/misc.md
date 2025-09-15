@@ -1,6 +1,6 @@
 ---
 layout: page
-title: misc
+title: miscellaneous
 permalink: /miscellaneous/
 ---
 
@@ -29,6 +29,6 @@ Beautiful Quotes: (unknown or falsely attributed authors are not included)
 
 Random thoughts:
 
-1. For a perfectly rational mathematician or computer scientist that graspes the essense of algorithm/optimization, why would that person not always follow the optimal strategy when solving tasks in real life? The first major assumption is that for a single objective optimization problem, we suppose the objective is THE goal. While in reality, this objective needs to be justified most of the time, and the justification of the goal is not easier than solving the problem itself. If we resort to multi-objective optimization, things get more interesting and complex. However, we are probably wasting our time and missing some other beautiful parts of our lives.
+1. For a mathematician or computer scientist who masters algorithm/optimization/game theory, what could be some reasons to not apply the optimal strategy when solving daily tasks? The assumption is that, if we can convert a daily task into a single-objective optimization problem, we consider the objective as THE goal. But sometimes, the objective needs a decent enough justification, which is not easier than solving the problem itself. Next, if we resort to multi-objective optimization, things get more interesting, and at the same time, more complex. In this case, if the task is trivial, we probably want to spend more time on non-trivial parts of our lives, or at least don't miss the beautiful part. 
 
 
