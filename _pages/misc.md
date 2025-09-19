@@ -29,6 +29,8 @@ Beautiful Quotes: (unknown or falsely attributed authors are not included)
 
 Random thoughts:
 
-1. For a mathematician or computer scientist who masters algorithm/optimization/game theory, what could be some reasons to not apply the optimal strategy when solving daily tasks? The assumption is that, if we can convert a daily task into a single-objective optimization problem, we consider the objective as THE goal. But sometimes, the objective needs a decent enough justification, which is not easier than solving the problem itself. Next, if we resort to multi-objective optimization, things get more interesting, and at the same time, more complex. In this case, if the task is trivial, we probably want to spend more time on non-trivial parts of our lives, or at least don't miss the beautiful part. 
+1. For someone who knows optimization, what are some reasons to not apply the optimal strategy when solving daily tasks? First, the assumption is that, if we can convert a task into a single variable optimization problem, we consider the objective as THE goal. But the objective needs a reasonable justification, which is not easier than solving the problem.
+
+Second, if we resort to multivariable optimization, things get more interesting, in which case we could handle some trade-offs between different metrics. However, if the task is trivial, we probably want to spend more time on other beautiful parts of our lives. 
 
 
