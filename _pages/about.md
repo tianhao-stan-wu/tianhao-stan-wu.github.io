@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 I graduated from the [University of Southern California](https://www.usc.edu/) in 2024 with B.S. in [Applied and Computational Mathematics](https://catalogue.usc.edu/preview_program.php?catoid=12&poid=12767) and [Computer Science & Computer Engineering](https://catalogue.usc.edu/preview_program.php?catoid=8&poid=7758). Currently, I am pursuing an M.S. degree in Computer Science at USC.
 
-My research lies at the intersection of **formal methods, robotics, and machine learning**, with a focus on developing **formally verifiable safety guarantees** for robotic and autonomous systems. For real-world applications, I'm particularly interested in autonomous driving and drones.
+My research lies at the intersection of **formal methods, robotics, and machine learning**, with a focus on developing **formally verifiable safety guarantees** for robotic and autonomous systems. I'm particularly interested in applications in autonomous driving and drones.
 
 <br/>
 

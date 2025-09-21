@@ -16,7 +16,7 @@ The following might be helpful to learn the basics of robotics, control, automat
 
 5. [MIT 18.404J Theory of Computation](https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
 
-
+6. [3 Blue 1 Brown](https://www.youtube.com/@3blue1brown) (for developing a good sense of mathematical intuition)
 
 
 

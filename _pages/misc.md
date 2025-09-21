@@ -29,8 +29,6 @@ Beautiful Quotes: (unknown or falsely attributed authors are not included)
 
 Random thoughts:
 
-1. For someone who knows optimization, what are some reasons to not apply the optimal strategy when solving daily tasks? First, the assumption is that, if we can convert a task into a single variable optimization problem, we consider the objective as THE goal. But the objective needs a reasonable justification, which is not easier than solving the problem.
-
-Second, if we resort to multivariable optimization, things get more interesting, in which case we could handle some trade-offs between different metrics. However, if the task is trivial, we probably want to spend more time on other beautiful parts of our lives. 
+1. For someone who knows optimization, what are some reasons to not apply the optimal strategy when solving daily tasks? First, the assumption is that, if we can convert a task into a single variable optimization problem, we consider the objective as THE goal. But the objective needs a reasonable justification, which is not easier than solving the problem. Second, if we resort to multivariable optimization, things get more interesting, in which case we could handle some trade-offs between different metrics. However, if the task is trivial, we probably want to spend more time on other beautiful parts of our lives. 
 
 

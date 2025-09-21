@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: cv.pdf # you can also use external links here
-description: click the pdf icon to view complete CV
+# description: click the pdf icon to view complete CV
 toc:
   sidebar: left
 ---
