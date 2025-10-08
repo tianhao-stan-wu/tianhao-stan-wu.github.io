@@ -32,7 +32,7 @@ My research lies at the intersection of **formal methods, robotics, and machine 
 
 Hobbies: badminton, basketball, Rubik's Cube, learning different languages
 
-Fun fact: Besides my favourite quote from [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) stated above, I also love the following claim by the great mathematician [Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) that, ‘Mathematics is the queen of the sciences and number-theory the queen of mathematics.’ I first read it in my number theory textbook. I was not able to taste the beauty of this sentence until I watched this wonderful [video](https://www.youtube.com/watch?v=EK32jo7i5LQ&t=133s) by 3 Blue 1 Brown (jump to 2:13 for a nice visualization). I couldn't described how fascinating it is to see that, "it all just happens”,beyond imagination.
+Fun fact: Besides my favourite quote from [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) stated above, I also love the following claim by the great mathematician [Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) that, ‘Mathematics is the queen of the sciences and number-theory the queen of mathematics.’ I first read it in my number theory textbook. I was not able to taste the beauty of this sentence until I watched this wonderful [video](https://www.youtube.com/watch?v=EK32jo7i5LQ&t=133s) by 3 Blue 1 Brown (jump to 2:13 for a nice visualization). I couldn't described how fascinating it is to see that, "it all just happens”, beyond imagination.
 
 <br/>
 

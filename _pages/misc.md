@@ -4,10 +4,18 @@ title: miscellaneous
 permalink: /miscellaneous/
 ---
 
+May be useful:
+
+1. [GPT for research](https://pmc.ncbi.nlm.nih.gov/articles/PMC10731938/)
+
+
+<br/>
+
 Interesting Concepts:
 
 1. [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 
+<br/>
 
 Beautiful Quotes: (unknown or falsely attributed authors are not included)
 
@@ -27,8 +35,20 @@ Beautiful Quotes: (unknown or falsely attributed authors are not included)
 
 8. ‘Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind.’ --- Russell
 
-Random thoughts:
+<br/>
 
-1. For someone who knows optimization, what are some reasons to not apply the optimal strategy when solving daily tasks? First, the assumption is that, if we can convert a task into a single variable optimization problem, we consider the objective as THE goal. But the objective needs a reasonable justification, which is not easier than solving the problem. Second, if we resort to multivariable optimization, things get more interesting, in which case we could handle some trade-offs between different metrics. However, if the task is trivial, we probably want to spend more time on other beautiful parts of our lives. 
+Resources to learn robotics and machine learning
+
+1. [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
+
+2. [Understanding Machine Learning - Shai Ben-David](https://www.youtube.com/@understandingmachinelearni6331)
+
+3. [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
+
+4. [Princeton Intro to Robotics](https://irom-lab.princeton.edu/intro-to-robotics/)
+
+5. [MIT 18.404J Theory of Computation](https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
+
+6. [3 Blue 1 Brown](https://www.youtube.com/@3blue1brown) (for developing a good sense of mathematical intuition)
 
 

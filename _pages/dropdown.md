@@ -8,6 +8,6 @@ children:
   - title: misc
     permalink: /miscellaneous/
   - title: divider
-  - title: resource
-    permalink: /resource/
+  - title: TBD
+    permalink: /TBD/
 ---
