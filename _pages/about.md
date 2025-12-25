@@ -20,9 +20,9 @@ social: true # includes social icons at the bottom of the page
 
 <br/>
 
-I graduated from [University of Southern California](https://www.usc.edu/) with B.S. in [Applied Mathematics](https://catalogue.usc.edu/preview_program.php?catoid=12&poid=12767) and [Computer Science/Engineering](https://catalogue.usc.edu/preview_program.php?catoid=8&poid=7758). I am currently pursuing my MS in Computer Science at USC.
+I received my B.S. in Applied Mathematics and Computer Science/Engineering from the University of Southern California. Currently, I am pursuing an M.S. in Computer Science at USC.
 
-My research interests are at the intersection of **formal methods, robotics, and machine learning**, with a focus on **formally verifiable safety guarantees** for robotic and autonomous systems. I'm particularly interested in autonomous driving applications.
+My research interests lie at the intersection of formal methods, robotics, and machine learning, with a focus on verifiable safety for robotic and autonomous systems. I am particularly interested in applications in autonomous driving and drones.
 
 <br/>
 
@@ -30,9 +30,11 @@ My research interests are at the intersection of **formal methods, robotics, and
 
 ### More About Me 
 
-Hobbies: badminton, NBA, Rubik's Cube, learn new languages
+Hobbies: badminton, Rubik's Cube, languages
 
-Fun fact: Besides my favourite quote by [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) stated above, I also love the following claim by the great mathematician [Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) that, ‘Mathematics is the queen of the sciences and number-theory the queen of mathematics.’ I first read it in my number theory textbook, and was not able to taste the beauty of this sentence until I watched this wonderful [video](https://www.youtube.com/watch?v=EK32jo7i5LQ&t=133s) by 3 Blue 1 Brown. Couldn't described how fascinating it is to see that, "it all just happens”, beyond imagination.
+Fun fact: Besides my favourite quote by Einstein stated above, I also love the following claim by the great mathematician Gauss that, ‘Mathematics is the queen of the sciences and number-theory the queen of mathematics.’ I first read it in my number theory textbook, and was not able to taste the beauty of this sentence until I watched this wonderful [video](https://www.youtube.com/watch?v=EK32jo7i5LQ&t=133s) by 3 Blue 1 Brown. Couldn't described how fascinating it is to see that, "it all just happens”, beyond imagination.
+
+Fun fact: Beyond my favorite quote by Einstein mentioned above, I’m also deeply fond of Gauss’s famous remark that “Mathematics is the queen of the sciences, and number theory the queen of mathematics.” I first encountered this quote in a number theory textbook, but at the time I couldn’t fully appreciate its meaning. It wasn’t until I later watched this wonderful [video](https://www.youtube.com/watch?v=EK32jo7i5LQ&t=133s) by 3Blue1Brown that the beauty of the statement unfolded. Seeing how everything “just happens,” effortlessly beyond intuition, was profoundly fascinating and left a lasting impression.
 
 <br/>
 

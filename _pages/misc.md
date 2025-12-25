@@ -4,13 +4,6 @@ title: miscellaneous
 permalink: /miscellaneous/
 ---
 
-May be useful:
-
-1. [GPT for research](https://pmc.ncbi.nlm.nih.gov/articles/PMC10731938/)
-
-
-<br/>
-
 Interesting Concepts:
 
 1. [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
