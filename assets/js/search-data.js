@@ -448,6 +448,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/tianhao-wu-099b5b229", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=jMOwu40AAAAJ", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
