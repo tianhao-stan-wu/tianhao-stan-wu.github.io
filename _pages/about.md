@@ -18,17 +18,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<br/>
+I received my bachelor's degrees in [Applied and Computational Mathematics](https://dornsife.usc.edu/mathematics/) and [Computer Science and Computer Engineering](https://www.cs.usc.edu/) from University of Southern California. I am currently continuing my studies in computer science at USC and will apply for PhD programs starting in 2027.
 
-I received my B.S. in Applied Mathematics and Computer Science/Engineering from the [University of Southern California](https://www.usc.edu/). Currently, I am pursuing an M.S. in Computer Science at USC.
-
-My research interests lie at the intersection of **formal methods, robotics, and machine learning**, with applications in autonomous driving.
-
+My research interests lie at the intersection of **formal methods, robotics, and machine learning**, with the goal of providing robust safety guarantees for systems that operate in complex and uncertain enviornments. I aim to develop frameworks that integrate the generalizability of data-driven approaches with the theoretical rigor of formal methods, with a particular interest in autonomous driving.
 <br/>
 
 ---
 
-Hobbies: speedcubing, badminton
+Hobbies: speedcubing (competitive Rubik’s Cube solving), basketball, learning foreign languages (now Spanish -> next French)
 
 
 <br/>

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: undergrad projects
+permalink: /undergrad_projects/
 description: A growing collection of selected projects.
-nav: true
+nav: False
 nav_order: 3
 display_categories: [research, personal project, class project]
 horizontal: false

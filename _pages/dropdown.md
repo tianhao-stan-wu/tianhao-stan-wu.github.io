@@ -5,9 +5,9 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: misc
-    permalink: /miscellaneous/
+  - title: undergrad projects
+    permalink: /undergrad_projects/
   - title: divider
-  - title: TBD
-    permalink: /TBD/
+  - title: miscellaneous
+    permalink: /miscellaneous/
 ---
