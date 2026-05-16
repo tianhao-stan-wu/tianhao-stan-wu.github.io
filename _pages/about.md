@@ -18,15 +18,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I received my B.S. in [Applied and Computational Mathematics](https://dornsife.usc.edu/mathematics/) and [Computer Science and Computer Engineering](https://www.cs.usc.edu/) from University of Southern California. Currently, I am pursuing Master in Computer Science at USC, and will apply to PhD programs for the coming 2027 admission cycle.
+I received my B.S. in Applied Mathematics and Computer Science & Computer Engineering from University of Southern California (USC). Currently, I am pursuing M.S. in Computer Science at USC. <span style="color:red">I am actively looking for PhD positions after graduation.</span>
 
-My research interests lie at the intersection of **formal methods, robotics, and machine learning**, with the goal of developing frameworks that integrate the generalizability of data-driven approaches and rigor of formal methods to provide robust safety guarantees for systems that operate in complex and uncertain environments. Moreover, I am interested in verifying these frameworks in autonomous driving applications.
+My research interests lie at the intersection of **formal methods, robotics, and machine learning**, with the goal of developing frameworks that provide robust guarantees for autonomous systems that operate in dynamic and uncertain environments.
 <br/>
 
 ---
 
-Hobbies: speedcubing (my [WCA profile](https://www.worldcubeassociation.org/persons/2018WUTI03)), basketball, learning foreign languages
-
+Hobbies: basketball, speedcubing ([WCA profile](https://www.worldcubeassociation.org/persons/2018WUTI03))
 
 <br/>
 
