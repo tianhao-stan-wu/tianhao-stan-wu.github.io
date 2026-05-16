@@ -16,15 +16,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "dropdown-undergrad-projects",
-              title: "undergrad projects",
+        },{id: "dropdown-projects",
+              title: "projects",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "dropdown-miscellaneous",
-              title: "miscellaneous",
+            },{id: "dropdown-misc",
+              title: "misc",
               description: "",
               section: "Dropdown",
               handler: () => {
