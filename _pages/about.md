@@ -2,18 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: ‘Education Is Not the Learning of Facts, But the Training of the Mind To Think.’ --- Albert Einstein
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,13 +20,24 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I received B.S. degrees in Applied Mathematics and Computer Science & Computer Engineering from University of Southern California, currently pursuing an M.S. degree in Computer Science at USC. <span style="color:red"> I am applying to PhDs for fall 2027 admission cycle.</span>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are at the intersection of <span style="font-weight: 500;">control theory, formal methods, and machine learning</span>, with applications in autonomous systems, cyber-physical systems, and robotics. Specifically, I am interested in developing frameworks that provide verifiable safety guarantees for systems operating in uncertain environments. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<span style="font-weight: 500;">Keywords:</span> temporal logic, probabilistic verification, MPC, HJ-reachability, CBF-CLF, autonomous driving
+
+---
+
+Fun fact: Besides my favourite Einstein quote, I also love the following claim by the great mathematician Gauss that, *‘Mathematics is the queen of the sciences, and number-theory the queen of mathematics.’* First read in a number theory textbook, I was not able to taste the beauty of this sentence until watched this wonderful [video](https://www.youtube.com/watch?v=EK32jo7i5LQ&t=138s) by 3 Blue 1 Brown. Couldn't described how fascinating it is to simply see that "it all just happened", beyond imagination.
+
+---
+
+Hobbies: basketball, speedcubing ([WCA](https://www.worldcubeassociation.org/persons/2018WUTI03))
+
+
+
