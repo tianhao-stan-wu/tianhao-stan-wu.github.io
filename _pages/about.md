@@ -27,9 +27,9 @@ latest_posts:
 
 I received B.S. degrees in Applied Mathematics and Computer Science & Computer Engineering from University of Southern California, currently pursuing an M.S. degree in Computer Science at USC. <span style="color:red"> I am applying to PhDs for fall 2027 admission cycle.</span>
 
-My research interests are at the intersection of <span style="font-weight: 500;">control theory, formal methods, and machine learning</span>, with applications in autonomous systems, cyber-physical systems, and robotics. Specifically, I am interested in developing frameworks that provide verifiable safety guarantees for systems operating in uncertain environments. 
+My research interests are at the intersection of <span style="font-weight: 500;">control theory, formal methods, and machine learning</span>, with applications in autonomous systems, cyber-physical systems, and robotics. Specifically, I am interested in bridging theory and practice by developing verifiable safety frameworks and validating them on real-world autonomous systems such as self-driving vehicles.
 
-<span style="font-weight: 500;">Keywords:</span> temporal logic, probabilistic verification, MPC, HJ-reachability, CBF-CLF, autonomous driving
+<span style="font-weight: 500;">Keywords:</span> temporal logic, probabilistic verification, MPC, HJ-reachability, CBF-CLF
 
 ---
 
