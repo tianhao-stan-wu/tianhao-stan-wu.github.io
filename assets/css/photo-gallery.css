@@ -1,0 +1,17 @@
+.photo-gallery swiper-container {
+  height: 75vh;
+}
+
+.photo-gallery swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.photo-gallery img {
+  max-height: 75vh;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
