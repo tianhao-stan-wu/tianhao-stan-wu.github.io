@@ -4,7 +4,7 @@ title: Hexapod Robot
 description: RPI controlled, equipped with camera
 img: assets/img/project6/hexapod.jpeg
 importance: 2
-category: fun
+category: personal
 ---
 
 A short demo of my cute hexapod!

@@ -4,7 +4,7 @@ title:  Music Genre Classification
 description: ML class project
 img: assets/img/project4/spectro.png
 importance: 3
-category: work
+category: undergraduate
 ---
 
 Collaborator: &nbsp;[Lorena Yan](https://tianyi-lorena-yan-me.web.app/) &nbsp;&nbsp;&nbsp;[Ryan Wang](https://www.linkedin.com/in/ryanyxw/)

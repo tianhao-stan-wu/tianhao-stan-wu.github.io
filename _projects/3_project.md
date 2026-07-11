@@ -4,7 +4,7 @@ title: Reachability Analysis
 description: USC CURVE fellowship
 img: assets/img/project3/hjreach.png
 importance: 1
-category: work
+category: undergraduate
 ---
 
 Faculty: Professor [Somil Bansal](https://smlbansal.github.io/)

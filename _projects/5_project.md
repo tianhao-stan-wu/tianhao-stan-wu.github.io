@@ -4,7 +4,7 @@ title: Ultrasonic Ranger/Fall Detector
 description: Embedded system class project
 img: assets/img/project5/rangefinder.png
 importance: 4
-category: work
+category: undergraduate
 ---
 
 **Fall Detector** (Senior capstone project)

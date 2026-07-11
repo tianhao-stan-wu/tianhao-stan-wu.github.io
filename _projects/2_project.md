@@ -4,7 +4,7 @@ title: Autonomous Drone
 description: UCI summer research
 img: assets/img/project2/autodrone.jpg
 importance: 2
-category: work
+category: undergraduate
 ---
 
 Faculty: Professor [Marco Levorato](https://www.ics.uci.edu/~mlevorat/)
