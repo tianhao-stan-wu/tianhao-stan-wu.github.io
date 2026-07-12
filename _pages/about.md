@@ -35,7 +35,7 @@ Fun fact: Besides my favourite Einstein quote, I also love the following claim t
 
 ---
 
-Hobbies: basketball, speedcubing ([WCA](https://www.worldcubeassociation.org/persons/2018WUTI03))
+Hobbies: basketball, [speedcubing](\cubing)
 
 
 

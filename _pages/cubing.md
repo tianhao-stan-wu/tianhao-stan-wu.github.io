@@ -72,6 +72,15 @@ If and only if you crave some math-induced pain ...
 - **[Upper Bound for Sufficient Scramble](https://arxiv.org/html/2509.12134v1)**
 - **[Algorithm Decomposition with Commutator](https://zixingwang.com/commutator/introduction.html)**
 
+Cube Is All You Need: An Interdisciplinary Approach
+
+- **[Planning Domain Definition Language](https://arxiv.org/abs/2307.13552)**
+- **[Deep Reinforcement Learning](https://arxiv.org/pdf/1805.07470)**
+- **[Motion Planning via VLM](https://arxiv.org/abs/2507.05607)** 
+- **[A* with Weighted Convolutional Distance](https://arxiv.org/html/2408.07945)**
+
+
+
 <br>
 
 ## 🌟 Fun Facts {#fun-facts}
@@ -86,8 +95,9 @@ If and only if you crave some math-induced pain ...
 ## 🏅 Personal Bests {#PB}
 ---
 
-All competition results: [WCA profile](https://www.worldcubeassociation.org/persons/2018WUTI03)
-- [2026-06-20 · 2x2 single: 4.42s](https://tianhao-stan-wu.github.io/blog/2026/2x2-PB/)
-- [2026-04-26 · 3×3 single: 12.36s](https://tianhao-stan-wu.github.io/blog/2026/3x3-PB/)
-- [2026-02-15 · 4x4 single: 53.10s](https://tianhao-stan-wu.github.io/blog/2026/4x4-PB/)
+Al competition results: [WCA profile](https://www.worldcubeassociation.org/persons/2018WUTI03)
+
+- [2026-06-20 · 2x2 single: 4.42s]({% post_url 2026-06-20-2x2-PB %})
+- [2026-04-26 · 3×3 single: 12.36s]({% post_url 2026-04-26-3x3-PB %})
+- [2026-02-15 · 4x4 single: 53.10s]({% post_url 2026-02-15-4x4-PB %})
 
