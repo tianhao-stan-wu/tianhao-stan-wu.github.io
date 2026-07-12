@@ -9,12 +9,11 @@ nav_order: 4
 
 # Cubing
 
-> *"Life is much like a Rubik's Cube. Among its more than **4.3 × 10<sup>19</sup>** possible configurations are moments of chaos. Sometimes, turning too fast is all it takes for everything to fall apart. Yet with every turn, every mistake, and every recovery, we gradually discover a solution to the solved state. In retrospect, that path is never optimal, but **unique**."* 
+> *"Life is much like a Rubik's Cube. Among its more than **4.3 × 10<sup>19</sup>** possible configurations are moments of chaos. Sometimes, the faster we twist, the more scrambled it becomes. Yet with every turn, every mistake, and every recovery, we gradually trace a path that is never optimal, but always **unique**."* 
 > <div align="right">— Tianhao Wu</div>
-> ---
 
 ## Table of Contents
-
+---
 - [Why I Cube](##why-i-cube)
 - [Getting Started](#getting-started)
 - [Dive Deeper](#dive-deeper)
@@ -25,8 +24,8 @@ nav_order: 4
 
 
 ## Why I Cube {#why-i-cube}
-
-I picked up cubing as a fun puzzle at ten. Over time, it has become one of my favorite hobbies. Beyond chasing faster solves, I enjoy the elegance of efficient solutions, the mathematical beauty of the cube, and the welcoming cubing community. Most importantly, it inspires me to keep challenging myself and pushing my limits.
+---
+I picked up cubing as a fun puzzle at ten. Over time, it has become one of my favorite hobbies. Beyond chasing faster solves, I enjoy the elegance of efficient solutions, the mathematical beauty of the cube, and the welcoming cubing community. Most importantly, it inspires me to keep challenging myself and pushing my limits. This is why we cube.
 
 <br>
 
@@ -45,7 +44,7 @@ I picked up cubing as a fun puzzle at ten. Over time, it has become one of my fa
 <br>
 
 ## 🚀 Getting Started {#getting-started}
-
+---
 If you're new to cubing, here are three steps to get started!
 
 ### Learn
@@ -65,7 +64,7 @@ If you're new to cubing, here are three steps to get started!
 <br>
 
 ## 📖 Dive Deeper {#dive-deeper}
-
+---
 If and only if you crave some math-induced pain ...
 
 - **[God's Number is 20](https://www.cube20.org/)**
@@ -75,10 +74,8 @@ If and only if you crave some math-induced pain ...
 
 <br>
 
----
-
 ## 🌟 Fun Facts {#fun-facts}
-
+---
 - **Favorite event:** 3×3
 - **Favorite PLL:** Ub-perm
 - **Least favorite PLL:** Na/Nb-perm
@@ -86,10 +83,10 @@ If and only if you crave some math-induced pain ...
 
 <br>
 
+## 🏅 Personal Bests {#PB}
 ---
 
-## 🏅 Personal Bests {#PB}
-
+All competition results: [WCA profile](https://www.worldcubeassociation.org/persons/2018WUTI03)
 - [2026-06-20 · 2x2 single: 4.42s](https://tianhao-stan-wu.github.io/blog/2026/2x2-PB/)
 - [2026-04-26 · 3×3 single: 12.36s](https://tianhao-stan-wu.github.io/blog/2026/3x3-PB/)
 - [2026-02-15 · 4x4 single: 53.10s](https://tianhao-stan-wu.github.io/blog/2026/4x4-PB/)
