@@ -10,7 +10,8 @@ nav_order: 4
 # Cubing
 
 > *"Life is much like a Rubik's Cube. Among its more than **4.3 × 10<sup>19</sup>** possible configurations are moments of chaos. Sometimes, the faster we twist, the more scrambled it becomes. Yet with every turn, every mistake, and every recovery, we gradually trace a path that is never optimal, but always **unique**."* 
-> <div align="right">— Tianhao Wu</div>
+
+<br>
 
 ## Table of Contents
 ---
@@ -95,7 +96,7 @@ Cube Is All You Need: An Interdisciplinary Approach
 ## 🏅 Personal Bests {#PB}
 ---
 
-Al competition results: [WCA profile](https://www.worldcubeassociation.org/persons/2018WUTI03)
+List of competition results: [WCA profile](https://www.worldcubeassociation.org/persons/2018WUTI03)
 
 - [2026-06-20 · 2x2 single: 4.42s]({% post_url 2026-06-20-2x2-PB %})
 - [2026-04-26 · 3×3 single: 12.36s]({% post_url 2026-04-26-3x3-PB %})
