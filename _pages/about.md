@@ -27,11 +27,11 @@ latest_posts:
 
 I received B.S. degrees in Applied Mathematics and Computer Science & Computer Engineering from University of Southern California, currently pursuing an M.S. degree in Computer Science at USC. <span style="color:red"> I am applying to PhDs for fall 2027 admission cycle.</span>
 
-My research interests lie at the intersection of <span style="font-weight: 500;">formal methods, cyber-physical systems and safe autonomy</span>. Specifically, I am interested in developing expressive spatio-temporal logics and quantitative semantics, designing verifiable safety frameworks for autonomous systems under uncertainty, and validating them on safety-critical applications such as autonomous driving.
+My research interests are at the intersection of <span style="font-weight: 500;">formal methods, cyber-physical systems and safe autonomy</span>, including (1) introducing new quantitative semantics and relaxation mechanisms for spatio-temporal logics, (2) developing verifiable safety frameworks for multi-agent systems under uncertainty with formal logics, and (3) validating these frameworks in autonomous driving and drone swarms.
 
 ---
 
-Fun fact: Besides my favourite Einstein quote, I also love the following claim that, *‘Mathematics is the queen of the sciences, and number-theory the queen of mathematics,’* by the great mathematician Gauss. I first read this sentence in a number theory textbook and was not able to taste its beauty, until I watched this wonderful [video](https://www.youtube.com/watch?v=EK32jo7i5LQ&t=138s) by 3 Blue 1 Brown. It's hard to describe how fascinating it is to simply see that "it all just happened", beyond imagination.
+Fun fact: Besides my favourite Einstein quote, I also love the following claim that, *‘Mathematics is the queen of the sciences, and number-theory the queen of mathematics,’* by the great mathematician Gauss. First read in a number theory textbook, I was not able to taste the beauty of this sentence until watched this wonderful [video](https://www.youtube.com/watch?v=EK32jo7i5LQ&t=138s) by 3 Blue 1 Brown. It's hard to describe how fascinating it is to simply see that "it all just happened", beyond imagination.
 
 ---
 

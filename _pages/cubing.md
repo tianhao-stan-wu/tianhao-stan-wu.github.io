@@ -7,18 +7,11 @@ nav: true
 nav_order: 4
 ---
 
-# Cubing
-
-> *"Life is much like a Rubik's Cube. Among its more than **4.3 × 10<sup>19</sup>** possible configurations are moments of chaos. Sometimes, the faster we twist, the more scrambled it becomes. Yet with every turn, every mistake, and every recovery, we gradually trace a path that is never optimal, but always **unique**."* 
-
-<br>
-
 ## Table of Contents
 ---
 - [Why I Cube](##why-i-cube)
 - [Getting Started](#getting-started)
 - [Dive Deeper](#dive-deeper)
-- [Fun Facts](#fun-facts)
 - [Personal Bests](#PB)
 
 <br>
@@ -26,7 +19,7 @@ nav_order: 4
 
 ## Why I Cube {#why-i-cube}
 ---
-I picked up cubing as a fun puzzle at ten. Over time, it has become one of my favorite hobbies. Beyond chasing faster solves, I enjoy the elegance of efficient solutions, the mathematical beauty of the cube, and the welcoming cubing community. Most importantly, it inspires me to keep challenging myself and pushing my limits. This is why we cube.
+I picked up cubing as a fun puzzle at ten. Over time, it has become one of my favorite hobbies. Nevertheless, it is more than just solving a piece of puzzle. It is an iterative process of learning, understanding, and practing. Most importantly, it brings source of inspiration to keep challenging ourselves and pushing our limits.
 
 <br>
 
@@ -44,7 +37,7 @@ I picked up cubing as a fun puzzle at ten. Over time, it has become one of my fa
 
 <br>
 
-## 🚀 Getting Started {#getting-started}
+## Getting Started {#getting-started}
 ---
 If you're new to cubing, here are three steps to get started!
 
@@ -64,7 +57,7 @@ If you're new to cubing, here are three steps to get started!
 
 <br>
 
-## 📖 Dive Deeper {#dive-deeper}
+## Dive Deeper {#dive-deeper}
 ---
 If and only if you crave some math-induced pain ...
 
@@ -80,20 +73,9 @@ Cube Is All You Need: An Interdisciplinary Approach
 - **[Motion Planning via VLM](https://arxiv.org/abs/2507.05607)** 
 - **[A* with Weighted Convolutional Distance](https://arxiv.org/html/2408.07945)**
 
-
-
 <br>
 
-## 🌟 Fun Facts {#fun-facts}
----
-- **Favorite event:** 3×3
-- **Favorite PLL:** Ub-perm
-- **Least favorite PLL:** Na/Nb-perm
-- **Color neutral:** white only
-
-<br>
-
-## 🏅 Personal Bests {#PB}
+## Personal Bests {#PB}
 ---
 
 List of competition results: [WCA profile](https://www.worldcubeassociation.org/persons/2018WUTI03)
@@ -101,4 +83,11 @@ List of competition results: [WCA profile](https://www.worldcubeassociation.org/
 - [2026-06-20 · 2x2 single: 4.42s]({% post_url 2026-06-20-2x2-PB %})
 - [2026-04-26 · 3×3 single: 12.36s]({% post_url 2026-04-26-3x3-PB %})
 - [2026-02-15 · 4x4 single: 53.10s]({% post_url 2026-02-15-4x4-PB %})
+
+<br>
+
+---
+> *"Life is much like a Rubik's Cube. Among its more than **4.3 × 10<sup>19</sup>** possible configurations are moments of chaos. Sometimes, the faster we twist, the more scrambled it becomes. Yet with every turn, every mistake, and every recovery, we gradually trace a path that is never optimal, but always **unique**."* 
+
+
 
