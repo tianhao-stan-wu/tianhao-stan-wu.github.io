@@ -9,7 +9,7 @@ nav_order: 4
 
 ## Table of Contents
 ---
-- [Why I Cube](##why-i-cube)
+- [Why Cubing](##why-cubing)
 - [Getting Started](#getting-started)
 - [Dive Deeper](#dive-deeper)
 - [Personal Bests](#PB)
@@ -17,9 +17,9 @@ nav_order: 4
 <br>
 
 
-## Why I Cube {#why-i-cube}
+## Why Cubing {#why-cubing}
 ---
-I picked up cubing as a fun puzzle at ten. Over time, it has become one of my favorite hobbies. Nevertheless, it is more than just solving a piece of puzzle. It is an iterative process of learning, understanding, and practing. Most importantly, it brings source of inspiration to keep challenging ourselves and pushing our limits.
+Speedcubing is more than solving a piece of puzzle. It is an iterative process of learning new concepts, practing various algorithms, and understanding their functions. Most importantly, it brings source of inspiration to keep challenging ourselves and pushing our limits.
 
 <br>
 
@@ -39,7 +39,7 @@ I picked up cubing as a fun puzzle at ten. Over time, it has become one of my fa
 
 ## Getting Started {#getting-started}
 ---
-If you're new to cubing, here are three steps to get started!
+If you're new to cubing, here are some steps to get started!
 
 ### Learn
 
@@ -59,14 +59,12 @@ If you're new to cubing, here are three steps to get started!
 
 ## Dive Deeper {#dive-deeper}
 ---
-If and only if you crave some math-induced pain ...
+Math, CS, Robotics
 
 - **[God's Number is 20](https://www.cube20.org/)**
 - **[Sufficient Scramble Requires 26 Moves](https://arxiv.org/html/2410.20630)**
 - **[Upper Bound for Sufficient Scramble](https://arxiv.org/html/2509.12134v1)**
 - **[Algorithm Decomposition with Commutator](https://zixingwang.com/commutator/introduction.html)**
-
-Cube Is All You Need: An Interdisciplinary Approach
 
 - **[Planning Domain Definition Language](https://arxiv.org/abs/2307.13552)**
 - **[Deep Reinforcement Learning](https://arxiv.org/pdf/1805.07470)**
@@ -84,10 +82,10 @@ List of competition results: [WCA profile](https://www.worldcubeassociation.org/
 - [2026-04-26 · 3×3 single: 12.36s]({% post_url 2026-04-26-3x3-PB %})
 - [2026-02-15 · 4x4 single: 53.10s]({% post_url 2026-02-15-4x4-PB %})
 
-<br>
+<!-- <br>
 
 ---
-> *"Life is much like a Rubik's Cube. Among its more than **4.3 × 10<sup>19</sup>** possible configurations are moments of chaos. Sometimes, the faster we twist, the more scrambled it becomes. Yet with every turn, every mistake, and every recovery, we gradually trace a path that is never optimal, but always **unique**."* 
+> *"Life is much like a Rubik's Cube. Among its more than **4.3 × 10<sup>19</sup>** possible configurations are moments of chaos. Sometimes, the faster we twist, the more scrambled it becomes. Yet with every turn, every mistake, and every recovery, we gradually trace a path that is never optimal, but always **unique**."*  -->
 
 
 
