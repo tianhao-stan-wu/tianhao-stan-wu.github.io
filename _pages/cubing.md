@@ -3,7 +3,7 @@ layout: default
 permalink: /cubing/
 title: cubing
 description: 
-nav: true
+nav: false
 nav_order: 4
 ---
 
@@ -19,7 +19,7 @@ nav_order: 4
 
 ## Why Cubing {#why-cubing}
 ---
-Speedcubing is more than solving a piece of puzzle. It is an iterative process of learning new concepts, practing various algorithms, and understanding their functions. Most importantly, it brings source of inspiration to keep challenging ourselves and pushing our limits.
+Cubing is more than solving a puzzle. It is about understanding efficient solutions, developing intuition, and turning practice into progress. Most importantly, it inspires me to keep challenging myself and pushing my limits.
 
 <br>
 
@@ -43,24 +43,24 @@ If you're new to cubing, here are some steps to get started!
 
 ### Learn
 
-- **[CubeSkills](https://www.cubeskills.com/categories/3x3)** — tutorials developed by Feliks Zemdegs, widely regarded as the greatest speedcuber of all time
-- **[SpeedCubeDB](https://speedcubedb.com/a/3x3)** - comprehensive database for beginner to advanced algorithms
+- **[CubeSkills](https://www.cubeskills.com/categories/3x3)** 
+- **[SpeedCubeDB](https://speedcubedb.com/a/3x3)**
 
 ### Practice
 
-- **[csTimer](https://cstimer.net/)** — most popular timer with various functionalities
-- **[CubeDesk](https://www.cubedesk.io/)** — beautiful statistics and session tracking
+- **[csTimer](https://cstimer.net/)** 
+- **[CubeDesk](https://www.cubedesk.io/)**
 
 ### Compete
 
-- **[WCA](https://www.worldcubeassociation.org/about)** — official World Cube Association competitions with global rankings
+- **[WCA](https://www.worldcubeassociation.org/about)** 
 
 <br>
 
 ## Dive Deeper {#dive-deeper}
----
-Math, CS, Robotics
+Something fun to read if you are into Math, CS or Robotics
 
+---
 - **[God's Number is 20](https://www.cube20.org/)**
 - **[Sufficient Scramble Requires 26 Moves](https://arxiv.org/html/2410.20630)**
 - **[Upper Bound for Sufficient Scramble](https://arxiv.org/html/2509.12134v1)**
@@ -76,7 +76,7 @@ Math, CS, Robotics
 ## Personal Bests {#PB}
 ---
 
-List of competition results: [WCA profile](https://www.worldcubeassociation.org/persons/2018WUTI03)
+All results: [WCA profile](https://www.worldcubeassociation.org/persons/2018WUTI03)
 
 - [2026-06-20 · 2x2 single: 4.42s]({% post_url 2026-06-20-2x2-PB %})
 - [2026-04-26 · 3×3 single: 12.36s]({% post_url 2026-04-26-3x3-PB %})

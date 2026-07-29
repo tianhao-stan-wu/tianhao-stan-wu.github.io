@@ -27,7 +27,7 @@ latest_posts:
 
 I received B.S. degrees in Applied Mathematics and Computer Science & Computer Engineering from University of Southern California, currently pursuing an M.S. degree in Computer Science at USC. <span style="color:red"> I am applying to PhDs for fall 2027 admission cycle.</span>
 
-My research interests lie at the intersection of <span style="font-weight: 500;">formal methods, cyber-physical systems and safe autonomy</span>, including (1) introducing quantitative semantics and relaxation mechanisms for spatio-temporal logics, (2) developing verifiable safety frameworks with formal logics, and (3) validating these frameworks in safety-critical systems such as autonomous driving and drone swarms.
+My research interests lie at the intersection of <span style="font-weight: 500;">formal methods, robotics, and control theory</span>. Specifically, I am interested in (1) introducing expressive spatio-temporal logics and quantitative semantics, (2) developing safe control frameworks for dynamic multi-agent systems with formal guarantees, and (3) testing these theoretical frameworks on safety-critical applications such as autonomous driving.
 
 ---
 
