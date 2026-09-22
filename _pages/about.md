@@ -33,7 +33,7 @@ latest_posts:
 
 I am currently a master student in Computer Science at University of Southern California (USC). Previously, I received my B.S. degrees in Applied & Computational Mathematics and Computer Science & Computer Engineering from USC. <span style="color:red"> I am actively seeking PhD positions starting in Fall 2027.</span>
 
-My research interests are at the intersection of <span style="font-weight: 500;">formal methods, control, and machine learning</span>. Specifically, I am interested in developing theoretical frameworks that provide formal safety guarantees for autonomous and multi-agent systems under uncertainty. With recent advances in machine learning, integrating learning with formal methods has become a promising direction toward building systems that are both adaptable and verifiable. Hence, I hope to explore principled ways to connect formal methods, control, and learning during my PhD.
+My research interests are at the intersection of <span style="font-weight: 500;">formal methods, control, and machine learning</span>. Specifically, I am interested in developing theoretical frameworks that provide formal safety guarantees for autonomous and multi-agent systems. With recent advances in data-driven methods, integrating learning with formal methods becomes a promising direction for building systems that are adaptable to uncertain environments while providing verifiable guarantees. During my PhD, I aim to explore the connections among formal methods, control, and learning for safe autonomy.
 
 ---
 
