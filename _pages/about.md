@@ -25,9 +25,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I received B.S. degrees in Applied Mathematics and Computer Science & Computer Engineering from University of Southern California, currently pursuing an M.S. degree in Computer Science at USC. <span style="color:red"> I am applying to PhDs for fall 2027 admission cycle.</span>
+<style>
+.profile img {
+  width: 80%;
+}
+</style>
 
-My research interests lie at the intersection of <span style="font-weight: 500;">formal methods, robotics, and control theory</span>. Specifically, I am interested in (1) introducing expressive spatio-temporal logics and quantitative semantics, (2) developing safe control frameworks for dynamic multi-agent systems with formal guarantees, and (3) testing these theoretical frameworks on safety-critical applications such as autonomous driving.
+I am currently a master student in Computer Science at University of Southern California (USC). Previously, I received my B.S. degrees in Applied & Computational Mathematics and Computer Science & Computer Engineering from USC. <span style="color:red"> I am actively seeking PhD positions starting in Fall 2027.</span>
+
+My research interests are at the intersection of <span style="font-weight: 500;">formal methods, control, and machine learning</span>. Specifically, I am interested in developing theoretical frameworks that provide formal safety guarantees for autonomous and multi-agent systems under uncertainty. With recent advances in machine learning, integrating learning with formal methods has become a promising direction toward building systems that are both adaptable and verifiable. Hence, I hope to explore principled ways to connect formal methods, control, and learning during my PhD.
 
 ---
 
