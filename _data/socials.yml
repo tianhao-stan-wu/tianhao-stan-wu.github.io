@@ -2,9 +2,9 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 
-email: wutianha@usc.edu # your email address
+
 scholar_userid: jMOwu40AAAAJ # your Google Scholar ID
 cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file
-# linkedin_username: tianhao-wu-099b5b229
-github_username: tianhao-stan-wu
-  
+# github_username: tianhao-stan-wu
+linkedin_username: tianhao-wu-099b5b229
+email: wutianha@usc.edu # your email address  
